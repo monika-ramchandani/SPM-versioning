@@ -3,5 +3,6 @@ public struct SPM_versioning {
 
     public init() {
         print("check alphanumeric tags")
+        print("check 2 digit tags")
     }
 }
